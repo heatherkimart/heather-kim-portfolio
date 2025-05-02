@@ -10,25 +10,26 @@ export default function Portfolio() {
       items: [
         {
           title: "Connected I: Between Structures",
-          image: "https://via.placeholder.com/800x400?text=Connected+I",
+          image: "https://placehold.co/800x400?text=Connected+I",
+
           description_en: "Explores the tension between static architectural forms and organic softness.",
           description_kr: "정적인 건축 구조와 유기적 부드러움 사이의 긴장을 탐구한다."
         },
         {
           title: "Connected II: Soft Intervals",
-          image: "https://via.placeholder.com/800x400?text=Connected+II",
+          image: "https://placehold.co/800x400?text=Connected+II",
           description_en: "Flowers and geometry unfold in layered intervals of perception.",
           description_kr: "꽃과 기하가 인식의 간극 속에서 층을 이루며 펼쳐진다."
         },
         {
           title: "Connected III: Suspended Perception",
-          image: "https://via.placeholder.com/800x400?text=Connected+III",
+         image: "https://placehold.co/800x400?text=Connected+III",
           description_en: "An impossible structure floats above blooming sensation.",
           description_kr: "불가능한 구조 위로 피어나는 감각이 떠오른다."
         },
         {
           title: "Connected IV: Fractured Logic",
-          image: "https://via.placeholder.com/800x400?text=Connected+IV",
+          image: "https://placehold.co/800x400?text=Connected+IV",
           description_en: "A fragmented space invites the viewer into perceptual dissonance.",
           description_kr: "분절된 공간은 지각의 균열 속으로 관람자를 초대한다."
         }
